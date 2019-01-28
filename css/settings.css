@@ -1,0 +1,24 @@
+.change_password{
+  width: 200px;
+  height: 100px;
+  background-color:  #f5ecbf ;
+  padding-top: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: 5px;
+  margin-right: 5px;
+  float: right;
+}
+.box_link:hover{
+  text-decoration: none;
+  color: #000000;
+}
+
+.long-text {
+	display: none
+}
+
+.show-more-button {
+    color: #5083F0;
+    cursor: pointer;
+}

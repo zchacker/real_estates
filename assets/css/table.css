@@ -1,0 +1,89 @@
+.normal_table{
+  font-size: 12px;
+  overflow-x: auto;
+  min-width: 400px;
+}
+.normal_table , .normal_table th , .normal_table td {
+  border: 1px solid black;
+}
+.normal_table th {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 21px;
+  background: #EDD171;
+  color: #000000;
+}
+
+.normal_table td{
+  text-align: center;
+  vertical-align: middle;
+  max-height: 50px;
+  line-height: 15px;
+  font-weight: 600;
+}
+
+/* medume tabel  */
+.med_table{
+  font-size: 12px;
+  overflow-x: auto;
+  min-width: 670px;
+}
+.med_table , .med_table th , .med_table td {
+  border: 1px solid black;
+}
+.med_table th {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 21px;
+  background: #EDD171;
+  color: #000000;
+}
+
+.med_table td{
+  text-align: center;
+  vertical-align: middle;
+  max-height: 50px;
+  line-height: 15px;
+  font-weight: 600;
+}
+
+/* this for long table */
+.table_wrapper{
+  font-size: 12px;
+  overflow-x: auto;
+  width: 1300px;
+}
+
+.table_wrapper , .table_wrapper th , .table_wrapper td {
+  border: 1px solid black;
+}
+
+.table_wrapper th {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 21px;
+  background: #EDD171;
+  color: #000000;
+}
+
+.table_wrapper td{
+  text-align: center;
+  vertical-align: middle;
+  line-height: 15px;
+  font-weight: 600;
+}
+
+.one_th{
+  width:20px;
+}
+
+.two_th{
+  width:30px;
+}
+
+.th_1{
+  width: 20px;
+}
+.th_3{
+  width: 70px;
+}
